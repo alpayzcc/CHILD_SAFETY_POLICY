@@ -1,0 +1,32 @@
+101 Okey Yazboz Çocuk Güvenliği Standartları Politikası
+Bu politika, 101 Okey Yazboz uygulamasındaki kullanıcıların, özellikle de çocukların güvenliğini sağlamak için benimsenen standartları ve prosedürleri özetlemektedir. Uygulamamız, çocuk cinsel istismarı ve çocuk istismarı (CSAE) dahil olmak üzere her türlü zararlı içeriği kesinlikle yasaklar.
+
+1. Raporlama ve İletişim Mekanizmaları
+Kullanıcılarımızın, CSAE veya herhangi bir yasa dışı/uygunsuz içerik veya davranışla ilgili şüphelerini hızla bildirebilmeleri için kolay ve erişilebilir yöntemler sunulmaktadır:
+
+Uygulama İçi Raporlama: Uygulama içerisinde, kullanıcı profilleri veya sohbet içerikleri üzerinde şüpheli aktiviteyi doğrudan raporlama özelliği bulunmaktadır.
+
+Doğrudan İletişim: Güvenlik ve uygunsuz içerik konuları için özel olarak tahsis edilmiş iletişim kanalımız:
+
+E-posta: [E-posta Adresiniz] (Lütfen burayı kendi aktif e-posta adresinizle değiştirin.)
+
+2. Moderasyon ve İçerik Kaldırma Standartları
+Rapor edilen tüm içerikler, aşağıdaki standartlara göre ele alınır:
+
+Hızlı İnceleme: Raporlar, önceliklendirilmiş bir şekilde en kısa sürede, özellikle CSAE ile ilgili olanlar aciliyetle incelenir.
+
+Sıfır Tolerans: CSAE içeren veya teşvik eden her türlü içerik için sıfır tolerans politikası uygulanır. Bu tür içerikler derhal kaldırılır.
+
+Hesap Yasaklama: Bu politikayı veya topluluk kurallarını ihlal eden kullanıcının hesabı kalıcı olarak yasaklanır.
+
+Yasal Bildirim: CSAE ile ilgili tespit edilen tüm yasa dışı içerikler ve aktiviteler, ilgili emniyet birimlerine ve gerekli yasal kurumlara (örneğin, NCMEC) bildirilir.
+
+3. Proaktif Önlemler
+Yaş Kısıtlaması: Uygulamamızın minimum yaş gereksinimleri, ilgili yasalara ve Google Play politikalarına uygun olarak belirlenmiştir.
+
+İsim ve Profil Moderasyonu: Çocukların güvenliğini tehlikeye atabilecek şekilde kişisel bilgi içeren veya rahatsız edici profil isimleri, fotoğrafları veya kullanıcı adları proaktif olarak taranır ve kaldırılır.
+
+Eğitim: Kullanıcıları, kişisel bilgilerini paylaşmama ve şüpheli davranışları rapor etme konusunda teşvik eden uygulama içi bilgilendirmeler yapılır.
+
+4. Bu Politikayı Uygulamayan Uygulayıcılar
+Uygulama ekibimiz ve moderasyon personelimiz, bu politikada belirtilen standartları uygulamak üzere düzenli olarak eğitilir ve bu standartlara uymaları zorunludur.
